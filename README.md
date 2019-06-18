@@ -41,5 +41,6 @@ MyBook deberá entonces contar con las siguientes opciones:
 2.5.1.	 Triqui: pedirá el correo y contraseña del amigo contra el que va a jugar y les permitirá jugar triqui entre los dos. Se almacenará en la opción de juegos, en triqui las estadísticas de partidos jugados, perdidos, ganados y empatados.
 2.5.1.1.	Ver estadísticas: Mostrará las estadísticas del triqui.
 2.6.	Cerrar sesión: cierra la sesión del usuario que ha ingresado y regresa al menú principal. 
+
 3.	Salir: sale del sistema.
 
