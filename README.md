@@ -1,8 +1,10 @@
 # Projects with C++
 
 * Download and install [CodeBlocks](http://www.codeblocks.org/downloads) or [Dev++](https://sourceforge.net/projects/orwelldevcpp/)
+* Clone the repo.
 * Open the files in the program that you have installed.
 * Compile and run them.
+* If you prefer you can run it in your terminal. 
 
 ## Naval battle
 
