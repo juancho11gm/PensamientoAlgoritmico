@@ -1,10 +1,15 @@
 # Projects with C++
 
+* Download and install [CodeBlocks](http://www.codeblocks.org/downloads) or [Dev++](https://sourceforge.net/projects/orwelldevcpp/)
+* Open the files in the program that you have installed.
+* Compile and run them.
+
 ## Naval battle
 
 Game developed using C++.
 
-You have to register your account. Then... enjoy!
+1. Two people must register.
+2. Log in. Then... enjoy!
 
 ![pensamiento1](https://user-images.githubusercontent.com/36536646/79826237-c7c69200-8360-11ea-97f8-f9be4f33ab32.PNG)
 
@@ -15,5 +20,8 @@ Play with friends
 ## Hiper
 
 Builder project developed using C++.
+
+1. Start from the first point, creating real state.
+2. Then you can search, buy and show information about the structures created in the system.
 
 ![pensamiento3](https://user-images.githubusercontent.com/36536646/79826282-e88ee780-8360-11ea-92a8-a9115b14c355.PNG)
