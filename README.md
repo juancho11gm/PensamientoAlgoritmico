@@ -1,6 +1,6 @@
 # Projects with C++
 
-* Copy, paste and run in [CPP online](http://cpp.sh/)
+* Go to [CPP online](http://cpp.sh/334ks)
 
 or...
 
@@ -26,6 +26,12 @@ Play with friends
 ## Hiper
 
 Builder project developed using C++.
+
+* Download and install [CodeBlocks](http://www.codeblocks.org/downloads) or [Dev++](https://sourceforge.net/projects/orwelldevcpp/)
+* Clone the repo.
+* Open the files in the program that you have installed.
+* Compile and run them.
+* If you prefer you can run it in your terminal. 
 
 1. Start from the first point, creating real state.
 2. Then you can search, buy and show information about the structures created in the system.
