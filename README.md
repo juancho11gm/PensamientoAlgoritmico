@@ -1,5 +1,9 @@
 # Projects with C++
 
+* Copy, paste and run in [CPP online](http://cpp.sh/)
+
+or...
+
 * Download and install [CodeBlocks](http://www.codeblocks.org/downloads) or [Dev++](https://sourceforge.net/projects/orwelldevcpp/)
 * Clone the repo.
 * Open the files in the program that you have installed.
